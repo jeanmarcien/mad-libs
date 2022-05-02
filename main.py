@@ -61,4 +61,4 @@ print("This weekend, I am going camping with " + color.RED + proper_noun_1.title
       "I have heard that the " + color.RED + color_1.lower().rstrip() + color.END + " lake is great for " + color.RED + verb_3.lower().rstrip() + color.END + ". Then we will\n"
       + color.RED + adverb_1.lower().rstrip() + color.END + " hike through the forest for " + color.RED + number_1.lower().rstrip() + color.END + " " + color.RED + measure_of_time_1.lower().rstrip() + color.END + ". If I see a\n"
       + color.RED + color_2.lower().rstrip() + color.END + " " + color.RED + animal_2.lower().rstrip() + color.END + " while hiking, I am going to bring it home as a pet! At night we will tell\n"
-      + color.RED + number_2.lower().rstrip() + color.END + " " + color.RED + silly_word_1.lower().rstrip() + color.END + " stories and roast " + color.RED + animal_3.lower().rstrip() + color.END + " around the campfire!! ")
+      + color.RED + number_2.lower().rstrip() + color.END + " " + color.RED + silly_word_1.lower().rstrip() + color.END + " stories and roast a " + color.RED + animal_3.lower().rstrip() + color.END + " around the campfire!! ")
